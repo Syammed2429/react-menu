@@ -1,0 +1,39 @@
+.upperCase {
+    text-transform: upperCase;
+}
+
+#new {
+    background: yellow;
+}
+
+.border {
+    border-radius:  150px;
+    color : white;
+    padding : 5px;
+    font-weight: bold;
+}
+.JoinUS {
+    background : 
+    #1ca0d7;
+}
+.Settings {
+    background : #7dafc0;
+}
+.Login {
+    background : #f7af23;
+}
+.Contact-Us {
+    background : #ca2e3c;
+}
+.Search {
+    background : #7daf39;
+}
+.Help {
+    background : #6562a2;
+}
+.Download {
+    background : #9c7a40;
+}
+.Home {
+    background : #e4498a;
+}
